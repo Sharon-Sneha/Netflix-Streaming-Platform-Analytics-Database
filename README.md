@@ -5,15 +5,7 @@
 ### SQL-Based Database System for Managing Users, Subscriptions, Content, Watch History, Ratings, Payments, and Platform Analytics
 
 <p align="center">
-  <img src="Images/Cover_image.JPG" alt="Netflix Streaming Platform Analytics Database" width="100%">
-</p>
-
----
-
-## 🗂️ ER Diagram
-
-<p align="center">
-  <img src="Images/ER_Diagram.png" alt="Netflix ER Diagram" width="95%">
+  <img src="Images/Cover_image.JPG" width="80%">
 </p>
 
 ---
@@ -30,6 +22,13 @@
 | Database Design | Third Normal Form (3NF) |
 
 ---
+
+<p align="center">
+  <img src="Images/ER_Diagram.png" alt="Netflix ER Diagram" width="95%">
+</p>
+
+---
+
 
 # 🎯 Business Problem
 
